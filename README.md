@@ -6,5 +6,6 @@ To run this project:
 
 1. Clone the project
 2. NPM install in both folders
-3. Add your Moralis API KEY in a .env in the server folder
+3. Add your Moralis API KEY (API_MORALIS) in a .env in the server folder
+4. NPM START in SERVER / NPM run dev in etherscanfrontend folder
 4. Put your ETH address in the search bar
